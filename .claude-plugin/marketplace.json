@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"书籍翻译专家：原文→术语表锁定→章节翻译→16 条确定性一致性审计→译者体润色，交付出版级中文译稿","name":"lhg-book-translate","source":"./"}]}
